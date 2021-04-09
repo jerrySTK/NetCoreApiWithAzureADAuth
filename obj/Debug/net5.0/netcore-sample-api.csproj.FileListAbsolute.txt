@@ -1,0 +1,17 @@
+C:\Users\DevOps3\Documents\Projects\netcore-sample-api\bin\Debug\net5.0\netcore-sample-api.exe
+C:\Users\DevOps3\Documents\Projects\netcore-sample-api\bin\Debug\net5.0\netcore-sample-api.dll
+C:\Users\DevOps3\Documents\Projects\netcore-sample-api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll
+C:\Users\DevOps3\Documents\Projects\netcore-sample-api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.AzureAD.UI.dll
+C:\Users\DevOps3\Documents\Projects\netcore-sample-api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DevOps3\Documents\Projects\netcore-sample-api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\DevOps3\Documents\Projects\netcore-sample-api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\DevOps3\Documents\Projects\netcore-sample-api\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+C:\Users\DevOps3\Documents\Projects\netcore-sample-api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DevOps3\Documents\Projects\netcore-sample-api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DevOps3\Documents\Projects\netcore-sample-api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DevOps3\Documents\Projects\netcore-sample-api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DevOps3\Documents\Projects\netcore-sample-api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\DevOps3\Documents\Projects\netcore-sample-api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DevOps3\Documents\Projects\netcore-sample-api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DevOps3\Documents\Projects\netcore-sample-api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DevOps3\Documents\Projects\netcore-sample-api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
